@@ -1,0 +1,26 @@
+{
+    "nome": "Castlevania: Curse of Darkness",
+    "serial": "SLUS-21168",
+    "elf": "SLUS_211.68",
+    "cd_root": "",
+    "exe": "castlevania-curse-of-darkness.exe",
+    "icone_capa": "https://raw.githubusercontent.com/libretro-thumbnails/Sony_-_PlayStation_2/master/Named_Boxarts/Castlevania%20-%20Curse%20of%20Darkness%20%28USA%29.png",
+    "iso_sha1": [
+        "c47a1da51dfd77a4f021b2c1425a8652323abdc0"
+    ],
+    "elf_sha1": [
+        "7f1d78f110139022b1461b7f61a51b42adc4e4ba"
+    ],
+    "versao": "americana, SLUS-21168",
+    "ambiente": {
+        "PS2X_VU1_NATIVO": "1",
+        "PS2X_GS_THREAD": "1",
+        "PS2X_MTVU": "1",
+        "PS2X_GS_FILA": "65536",
+        "PS2X_MTVU_FILA": "2048",
+        "PS2X_GS_THREADS": "4",
+        "PS2X_GS_GIRO": "0",
+        "PS2X_RPC_FIM_ADIADO": "1",
+        "PS2X_RELOGIO_REAL": "1"
+    }
+}
